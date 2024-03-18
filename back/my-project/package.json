@@ -1,5 +1,5 @@
 {
-  "name": "simple",
+  "name": "my-project",
   "private": true,
   "version": "0.1.0",
   "description": "A Strapi application",
@@ -15,7 +15,7 @@
     "@strapi/plugin-users-permissions": "4.20.5",
     "@strapi/plugin-i18n": "4.20.5",
     "@strapi/plugin-cloud": "4.20.5",
-    "pg": "8.8.0",
+    "better-sqlite3": "8.6.0",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-router-dom": "5.3.4",
@@ -25,7 +25,7 @@
     "name": "A Strapi developer"
   },
   "strapi": {
-    "uuid": "98cd9a44-c8ab-434c-9e50-bbb4a055fd2b"
+    "uuid": "d6f098b3-92e2-463d-aaeb-7d20dbed4654"
   },
   "engines": {
     "node": ">=18.0.0 <=20.x.x",
